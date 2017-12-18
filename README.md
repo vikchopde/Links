@@ -14,3 +14,6 @@ https://www.reddit.com/r/cpp/comments/luxxg/a_list_of_rss_c_blogs/
 https://eli.thegreenplace.net/tag/c-c
 http://aherrmann.github.io/programming/2016/02/28/unpacking-tuples-in-cpp14/ - tuple unwrap
 https://github.com/fffaraz/awesome-cpp
+
+
+https://github.com/rigtorp/awesome-modern-cpp
