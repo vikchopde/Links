@@ -6,3 +6,11 @@ http://www.1024cores.net/home/lock-free-algorithms/reader-writer-problem (articl
 
 
 competetive programming : http://codeforces.com/blog/entry/23054
+
+
+c++ links/articles :
+https://github.com/richelbilderbeek/cpp/blob/master/content/Cpp.md
+https://www.reddit.com/r/cpp/comments/luxxg/a_list_of_rss_c_blogs/
+https://eli.thegreenplace.net/tag/c-c
+http://aherrmann.github.io/programming/2016/02/28/unpacking-tuples-in-cpp14/ - tuple unwrap
+https://github.com/fffaraz/awesome-cpp
