@@ -21,3 +21,7 @@ https://github.com/rigtorp/awesome-modern-cpp
 
 
 https://blog.galowicz.de/2016/06/24/integer_sequences_at_compile_time/
+
+
+
+modern cpp pattern : code snippet
