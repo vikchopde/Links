@@ -25,3 +25,5 @@ https://blog.galowicz.de/2016/06/24/integer_sequences_at_compile_time/
 
 
 modern cpp pattern : code snippet
+
+https://stackoverflow.com/questions/7858817/unpacking-a-tuple-to-call-a-matching-function-pointer (TUPLE UNWRAPPING , C++98 , c++11, c++17)
