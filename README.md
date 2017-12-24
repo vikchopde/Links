@@ -34,3 +34,5 @@ https://stackoverflow.com/questions/7858817/unpacking-a-tuple-to-call-a-matching
 https://functionalcpp.wordpress.com/ -- functional c++
 
 https://eli.thegreenplace.net/2016/c11-threads-affinity-and-hyperthreading/ - thread affinity
+
+https://blog.galowicz.de/2016/06/24/integer_sequences_at_compile_time/
