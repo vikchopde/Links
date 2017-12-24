@@ -36,3 +36,12 @@ https://functionalcpp.wordpress.com/ -- functional c++
 https://eli.thegreenplace.net/2016/c11-threads-affinity-and-hyperthreading/ - thread affinity
 
 https://blog.galowicz.de/2016/06/24/integer_sequences_at_compile_time/
+
+https://embeddedartistry.com/blog/2017/1/26/c11-improving-your-callback-game
+
+
+https://marcoarena.wordpress.com/tag/tuple-unpacking/
+http://bajamircea.github.io/coding/cpp/2016/04/07/move-forward.html
+https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c/
+https://blog.galowicz.de/2016/06/24/integer_sequences_at_compile_time/
+
