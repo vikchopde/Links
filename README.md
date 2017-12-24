@@ -31,4 +31,6 @@ https://stackoverflow.com/questions/7858817/unpacking-a-tuple-to-call-a-matching
 
 
 
-https://functionalcpp.wordpress.com/ -- Raw c++
+https://functionalcpp.wordpress.com/ -- functional c++
+
+https://eli.thegreenplace.net/2016/c11-threads-affinity-and-hyperthreading/ - thread affinity
